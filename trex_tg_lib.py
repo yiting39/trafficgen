@@ -1,7 +1,7 @@
 from __future__ import print_function
 
 import sys
-sys.path.append('/opt/trex/current/automation/trex_control_plane/interactive')
+sys.path.append('/var/opt/trex/current/automation/trex_control_plane/interactive')
 import json
 import traceback
 from trex.stl.api import *
